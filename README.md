@@ -32,10 +32,9 @@ The overall pipeline of UXRChain comprises a study planning agent responsible fo
 
 2. Find the GPT API Endpoint and token places in utils/utils.py and input yours.
 
-2. Input your GPT API Endpoint and token in utils/utils.py
-
-
 3. Change the task/task_test_json file to your website and user experience quesiton.
+
+4. Remember to generate cookie file under Agent/ to login some pages.
 
 4. Run the Agent/UXRAgent.py 
 
