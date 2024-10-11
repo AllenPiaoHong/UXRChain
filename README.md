@@ -38,7 +38,7 @@ The overall pipeline of UXRChain comprises a study planning agent responsible fo
 
 4. Run the Agent/UXRAgent.py
 
-5. Run the Agent/EndtoEndAnalysis.py 
+5. Run the Agent/EndtoEnd_Analysis.py 
 
 6. Wait for the user experiencce report !
 
