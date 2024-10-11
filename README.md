@@ -1,6 +1,4 @@
-# UXRChain: User Exeperiene Research Chain
-
-## An Large Language Model Framework for Fast Web User Experience Deficiencies Detection
+# UXRChain: Multi-Agent Framework for Fast Web User Experience Deficiencies Detection
 
 <!-- <p align="center">
     <img src="./Fig/example.png" alt="Image 2" style="margin: 10px; width: 500px;"/>
