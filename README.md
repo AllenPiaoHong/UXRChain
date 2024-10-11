@@ -21,7 +21,7 @@ User experience research (UXR) has always been an important part of web developm
 In this work, we designed a large language model driven multi-agent system UXRChain for efficient, sustainable, and low-cost web
 user experience research. By simulating the real-world user experience research workflow, UXRChain can automatically and almost
 cost-free complete a user experience study: i).Design appropriate research plans based on the provided UX questions, ii).Generate
-simulated target users and organize them to test the studied web pages, iii).Execute and keep improving the research plan on the
+simulated target users and organize them to test the studied web pages, iii).Execute the research plan on the
 simulated users, and iv).Automatically analyze the data collected from users to provide final reports.
 The overall pipeline of UXRChain comprises a study planning agent responsible for designing research plans addressing experience-related questions posed by developers, a variable number of user agents, a study execution agent to execute the study, and a data analysis agent to analyze the collected data and produce the final user exeprience report.
 
