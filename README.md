@@ -3,8 +3,8 @@
 ## An Large Language Model Framework for Fast Web User Experience Deficiencies Detection
 
 <div style="display: flex; justify-content: center;">
-    <img src="./Fig/pipeline.png" alt="Image 2" style="margin: 10px; width: 300px;"/>
-    <img src="./Fig/example.png" alt="Image 1" style="margin: 10px; width: 300px;"/>
+    <img src="./Fig/example.png" alt="Image 2" style="margin: 10px; width: 300px;"/>
+
 </div>
 
 
@@ -15,7 +15,15 @@ cost-free complete a user experience study: i).Design appropriate research plans
 simulated target users and organize them to test the studied web pages, iii).Execute and keep improving the research plan on the
 simulated users, and iv).Automatically analyze the data collected from users to provide final reports.
 
-# What you need to do ?
+<div style="display: flex; justify-content: center;">
+    <img src="./Fig/pipeline.png" alt="Image 2" style="margin: 10px; width: 300px;"/>
+ 
+</div>
+
+The overall pipeline of UXRChain comprises a study planning agent responsible for designing research plans addressing experience-related questions posed by developers, a variable number of user agents, a study execution agent to execute the study, and a data analysis agent to analyze the collected data and produce the final user exeprience report.
+
+
+## What you need to do ?
 
 1. Install the packages
 
@@ -26,4 +34,3 @@ simulated users, and iv).Automatically analyze the data collected from users to 
 4. Run the Agent/UXRAgent.py 
 
 5. Wait for the user experiencce report !
-
