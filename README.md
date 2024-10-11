@@ -36,9 +36,11 @@ The overall pipeline of UXRChain comprises a study planning agent responsible fo
 
 4. Remember to generate cookie file under Agent/ to login some pages.
 
-4. Run the Agent/UXRAgent.py 
+4. Run the Agent/UXRAgent.py
 
-5. Wait for the user experiencce report !
+5. Run the Agent/EndtoEndAnalysis.py 
+
+6. Wait for the user experiencce report !
 
 ## Acknowledgement
 
