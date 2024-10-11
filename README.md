@@ -27,10 +27,14 @@ The overall pipeline of UXRChain comprises a study planning agent responsible fo
 
 1. Install the packages
 
-2. Input your GPT API Endpoint and token utils/utils.py
+2. Find the GPT API Endpoint and token places in utils/utils.py and input yours.
 
-3. Change the task/task_test_json file to your website and research quesiton concerning the user experience.
+3. Change the task/task_test_json file to your website and user experience quesiton.
 
 4. Run the Agent/UXRAgent.py 
 
 5. Wait for the user experiencce report !
+
+## Acknowledgement
+
+Our work is based on [webarea] (https://github.com/MinorJerry/WebVoyager)
