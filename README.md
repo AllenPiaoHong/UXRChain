@@ -43,4 +43,4 @@ The overall pipeline of UXRChain comprises a study planning agent responsible fo
 
 ## Acknowledgement
 
-Our work is based on [webarea](https://github.com/MinorJerry/WebVoyager).
+Our work is based on [webarea](https://github.com/MinorJerry/WebVoyager). The project is supported by [HexAI](https://www.hexai.tech/). 
