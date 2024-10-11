@@ -172,7 +172,7 @@ def format_msg_interviewer(init_msg):
 def call_gpt4v_Analysis(messages,logging):
 
     API_url = ""
-    token = "sk-YvVLTi3JR6pwZWaT27C3Ed2f9a7b42D693298c5a48E4Ff36"
+    token = ""
     payload = {"model": "gpt-4o","messages": messages,"max_tokens": 4000,"temperature": 0.7}
     headers = {"Content-Type": "application/json","Authorization": f"Bearer {token}"}
 
@@ -206,7 +206,7 @@ def call_gpt4v_Analysis(messages,logging):
 def call_gpt4v_User(messages,logging):
 
     API_url = ""
-    token = "sk-YvVLTi3JR6pwZWaT27C3Ed2f9a7b42D693298c5a48E4Ff36"
+    token = ""
     payload = {"model": "gpt-4o","messages": messages,"max_tokens": 4000,"temperature": 0.7}
     headers = {"Content-Type": "application/json","Authorization": f"Bearer {token}"}
 
@@ -247,7 +247,7 @@ def call_gpt4v_User(messages,logging):
 def call_gpt4v_UI(messages,logging):
 
     API_url = ""
-    token = "sk-YvVLTi3JR6pwZWaT27C3Ed2f9a7b42D693298c5a48E4Ff36"
+    token = ""
     payload = {"model": "gpt-4o","messages": messages,"max_tokens": 4096,"temperature": 0.7}
     headers = {"Content-Type": "application/json","Authorization": f"Bearer {token}"}
 
