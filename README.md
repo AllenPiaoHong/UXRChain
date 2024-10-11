@@ -10,7 +10,7 @@
     <img src="Fig/example.png" alt="Image 2" width="300" style="margin: 10px;"/>
 </p>
 
-User experience research (UXR) has always been an important part of web development. UXR includes a series of systematic methods (e.g., user interview, think aloud session and focus group discussion) to understand target users and their requirements as well as to introduce realistic contexts and insights to the design processes of final products. These methods have different advantages and play different roles in the entire UXR workflow. An example is that UXR teams often firstly collect the basic needs of potential users through large-scale questionnaires and then interview them to gain a deep understanding of their detailed expectations. UXR allows developers to focus on the usability of web pages 
+User experience research (UXR) has always been an important part of web development. UXR includes a series of systematic methods (e.g., user interview, think aloud session and focus group discussion) to understand target users and their requirements as well as to introduce realistic contexts and insights to the design processes of final products. These methods have different advantages and play different roles in the entire UXR workflow. An example is that UXR teams often firstly collect the basic needs of potential users through large-scale questionnaires and then interview them to gain a deep understanding of their detailed expectations.
 
 <p align="center">
     <img src="./Fig/pipeline.png" alt="Image 2" style="margin: 10px; width: 500px;"/>
